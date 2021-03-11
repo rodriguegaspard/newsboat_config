@@ -7,5 +7,6 @@ Put the <code>urls</code> and the <code>config</code> files in <code>~/.newsboat
 
 Here's a preview of my config :
 
+![newsboat](https://user-images.githubusercontent.com/32638833/110806494-68c48100-8282-11eb-9cd0-8f1243f2a4c3.png)
 
 For YouTube links I use a macro (<code>,y</code>) to play videos on mpv (https://mpv.io/) using youtube-dl (https://youtube-dl.org/)
