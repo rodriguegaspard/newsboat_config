@@ -1,0 +1,24 @@
+auto-reload yes
+max-items 100
+
+browser "w3m %u"
+
+color background          white   default
+color listnormal          white   default
+color listfocus           yellow  default bold
+color listnormal_unread   color132 default
+color listfocus_unread    yellow default bold
+color info                yellow  black bold
+color article             white   default
+
+feedlist-format "%?T?  %8u  %t  %4S & --- %t ?"
+articlelist-format "%D  %t"
+
+highlight feedlist "--- YouTube" color1 default bold
+highlight feedlist "--- World" color2 default bold
+highlight feedlist "--- France" color4 default bold
+highlight feedlist "--- Gaming" color190 default bold
+highlight feedlist "--- Tech" color200 default bold
+highlight feedlist "--- Science" color6 default bold
+
+macro y set browser "mpv %u" ; open-in-browser ; set browser "w3m %u"

@@ -1,0 +1,34 @@
+#Template for YT RSS :  https://www.youtube.com/feeds/videos.xml?channel_id=
+
+YouTube
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA "~VSauce"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9pgQfOXRsp4UKrI8q0zjXQ "~Lindybeige"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~DistroTube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "~Kurzgesagt – In a Nutshell"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "~Computerphile"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtI0Hodo5o5dUb67FeUjDeA "~SpaceX"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvA_wgsX6eFAOXI8Rbg_WiQ "~tutoriaLinux"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5Uxu2LyaoAoMMGp6oTJA "~Atomic Shrimp"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A "~Tom Scott"
+
+World
+
+https://morss.it/feeds.bbci.co.uk/news/video_and_audio/world/rss.xml# "~BBC News"
+
+France
+
+https://morss.it/https://www.francetvinfo.fr/france.rss "~France Info"
+
+Tech
+
+https://morss.it/https://news.ycombinator.com/rss "~Hacker News"
+
+Gaming
+
+http://www.bay12games.com/dwarves/dev_now.rss "~Dwarf Fortress Devblog"
+http://www.bay12games.com/dwarves/dev_release.rss "~Dwarf Fortress Releases"
+
+Science
+
+https://morss.it/https://www.newscientist.com/section/news/feed/ "~New Scientist"
