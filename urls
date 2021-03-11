@@ -1,0 +1,82 @@
+#Template for YT RSS : https://www.youtube.com/feeds/videos.xml?channel_id= 
+#TO-DO : Sort by type (YT Channels, Twitter feeds, News..) tags?
+
+"[News]"
+https://sizeof.cat/index.xml "~sizeof{cat}"
+https://boards.4channel.org/news/index.rss "~4chan /news/"
+https://www.eff.org/rss/updates.xml "~Deeplinks"
+
+"[Music]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC26brDqaI8TNGyCtagmw1Rg "~Puddles!"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeQwCalZK1scamopwHt9UWw "~람다람"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTKiZj1VBXI6K4fGWzfISqg "~Platina Jazz"
+
+"[Tech]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "~Computerphile"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvA_wgsX6eFAOXI8Rbg_WiQ "~tutoriaLinux"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-yuWVUplUJZvieEligKBkA "~javidx9"
+https://odysee.com/$/rss/@Luke:7 "~Luke Smith"
+https://digdeeper.neocities.org/atom.xml "~Dig Deeper"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSYWVv2BdiYbzSiwXZ2hx1Q "~Neat AI"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmtyQOKKmrMVaKuRXz02jbQ "~Sebastian Lague"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1ZBQ-F-yktYD4m5AzM6pww "~Mustard"
+https://mastodon.social/users/beejjorgensen.rss "~Beej"
+https://web3isgoinggreat.com/feed.xml "~Web3 is going great"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtEwVJZABCd0tels2KIpKGQ "~aarthificial"
+https://www.theregister.com/headlines.atom "~The Register"
+https://www.technologyreview.com/feed "~MIT Technology Review"
+
+"[Gaming]"
+http://www.bay12games.com/dwarves/dev_now.rss "~Dwarf Fortress Devblog"
+http://www.bay12games.com/dwarves/dev_release.rss "~Dwarf Fortress Releases"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCD6VugMZKRhSyzWEWA9W2fg "~SsethTzeentach"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSDiMahT5qDCjoWtzruztkw "~Ambiguous Amphibian"
+https://www.youtube.com/feeds/videos.xml?channel_id=UClyGlKOhDUooPJFy4v_mqPg "~Doug Doug"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYZtp0YIxYOipX15v_h_jnA "~Crowbcat"
+https://www.gamingonlinux.com/article_rss.php "~Gaming on Linux"
+https://fractalsoftworks.com/feed/ "~Star Sector"
+
+
+"[History & Arts]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9pgQfOXRsp4UKrI8q0zjXQ "~Lindybeige"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7IcJI8PUf5Z3zKxnZvTBog "~The School of Life"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3WIohkLkH4GFoMrrWVZZFA "~Skallagrim"
+
+"[Science]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA "~VSauce"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "~Kurzgesagt – In a Nutshell"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiW7-IEQCTqS9l7223whHZA "~Matt Lowne"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "~3Blue1Brown"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkweMwOh3kstRG5pX9I0uWQ "~The Budget Museum"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1KOOWHthbQVXH2kZue3_xA "~EVNautilus"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg "~Two Minute Papers"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0XNssyypOLiq4vVgXm9NtQ "~Life in Jars?"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTpmmkp1E4nmZqWPS-dl5bg "~Quanta Magazine"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmb8hO2ilV9vRa8cilis88A "~Thunderf00t"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ "~Boston Dynamics"
+
+"[Cooking]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UClrMJRlvoyoWsVlB-7c61PQ "~Coyboy Kent Rollins"
+
+"[Fun]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5Uxu2LyaoAoMMGp6oTJA "~Atomic Shrimp"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfNQkKS2AkN_BX36MdvY70Q "~bigstackD Casting"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEq_Dr1GHvnNPQNfgOzhZ8Q "~Solid jj"
+https://xkcd.com/rss.xml "~xkcd"
+
+"[Misc]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A "~Tom Scott"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbWcXB0PoqOsAvAdfzWMf0w "~Fredrik Knudsen"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV8Qe8z3RDLiAV7E0WP7-Fg "~Syrmor"
+
+"[Podcasts]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ "~Joe Rogan Experience"
+
+"[Torrents]"
+https://nyaa.si/?page=rss&q=goblin+slayer&c=3_1&f=0 "~Goblin Slayer"
+
+"[Updates]"
+
+"[GitHub]"
+https://suckless.org/atom.xml "~suckless"

@@ -1,0 +1,46 @@
+auto-reload yes
+max-items 500
+
+browser "elinks %u"
+
+color background          white     default
+color listnormal          color245  default  
+color listfocus           yellow    default  bold
+color listnormal_unread   white     default
+color listfocus_unread    yellow    default  bold
+color info                yellow    default  bold
+color article             white     default
+
+# unbind keys
+unbind-key j
+unbind-key k
+unbind-key J
+unbind-key K
+
+# bind navigation keys - vim style
+bind-key j down
+bind-key k up
+bind-key l open
+bind-key h quit
+
+feedlist-format "%?l? %10u %t %4S & %t ?"
+articlelist-format "%D %t"
+
+highlight feedlist "\\[News\\]"             color160   default  bold
+highlight feedlist "\\[Music\\]"            color160   default  bold
+highlight feedlist "\\[Tech\\]"             color160   default  bold
+highlight feedlist "\\[Gaming\\]"           color160   default  bold
+highlight feedlist "\\[History & Arts\\]"   color160   default  bold
+highlight feedlist "\\[Science\\]"          color160   default  bold
+highlight feedlist "\\[Cooking\\]"          color160   default  bold
+highlight feedlist "\\[Fun\\]"              color160   default  bold
+highlight feedlist "\\[Misc\\]"             color160   default  bold
+highlight feedlist "\\[Podcasts\\]"         color160   default  bold
+highlight feedlist "\\[GitHub\\]"           color160   default  bold
+highlight feedlist "\\[Torrents\\]"         color160   default  bold
+highlight feedlist "\\[Updates\\]"          color160   default  bold
+
+macro p set browser "qutebrowser %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
+macro y set browser "mpv %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
+macro i set browser "feh %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
+macro t set browser "transmission-remote -a %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"

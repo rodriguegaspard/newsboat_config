@@ -1,11 +1,16 @@
 # newsboat_config
-My personal Newsboat configuration (URLs and config file)
+My personal Newsboat configuration (URLs and config file). It's a very basic configuration that adds easy access to YouTube content and headings for clarity.
 # What is Newsboat?
 Newsboat is a highly customizable terminal-based Atom/RSS feed reader. All information (installation, documentation, and so on..) can be found here : https://newsboat.org/ and here : https://wiki.archlinux.org/index.php/Newsboat
 # How to install?
 Put the <code>urls</code> and the <code>config</code> files in <code>~/.newsboat</code>.
 
-Here's a preview of my config :
+The default browser is set to elinks (http://w3m.sourceforge.net/).
+I've added vim keybinds for navigation.
 
+Macros :
+- (<code>,y</code>) : Open video links using mpv (https://mpv.io/) + (https://github.com/yt-dlp/yt-dlp)
+- (<code>,p</code>) : Open link using a more modern browser (I use qutebrowser : https://www.qutebrowser.org/)
+- (<code>,i</code>) : Open image link using feh.
+- (<code>,t</code>) : Open magnet link in transmission-remote.
 
-For YouTube links I use a macro (<code>,y</code>) to play videos on mpv (https://mpv.io/) using youtube-dl (https://youtube-dl.org/)
