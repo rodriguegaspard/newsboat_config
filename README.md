@@ -5,12 +5,10 @@ Newsboat is a highly customizable terminal-based Atom/RSS feed reader. All infor
 # How to install?
 Put the <code>urls</code> and the <code>config</code> files in <code>~/.newsboat</code>.
 
-The default browser is set to elinks (http://w3m.sourceforge.net/).
+The default browser is set to elinks (http://elinks.or.cz/).
 I've added vim keybinds for navigation.
 
 Macros :
-- (<code>,y</code>) : Open video links using mpv (https://mpv.io/) + (https://github.com/yt-dlp/yt-dlp)
+- (<code>,y</code>) : Open video links using mpv (https://mpv.io/) + yt-dlp (https://github.com/yt-dlp/yt-dlp)
 - (<code>,p</code>) : Open link using a more modern browser (I use qutebrowser : https://www.qutebrowser.org/)
-- (<code>,i</code>) : Open image link using feh.
 - (<code>,t</code>) : Open magnet link in transmission-remote.
-
