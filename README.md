@@ -12,3 +12,4 @@ Macros :
 - (<code>,y</code>) : Open video links using mpv (https://mpv.io/) + yt-dlp (https://github.com/yt-dlp/yt-dlp)
 - (<code>,p</code>) : Open link using a more modern browser (I use qutebrowser : https://www.qutebrowser.org/)
 - (<code>,t</code>) : Open magnet link in transmission-remote.
+
