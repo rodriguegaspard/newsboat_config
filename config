@@ -42,4 +42,4 @@ highlight feedlist "\\[Updates\\]"          color160   default  bold
 
 macro p set browser "qutebrowser %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
 macro y set browser "mpv %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
-macro t set browser "transmission-remote -a %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
+macro t set browser "transmission-remote -a %u -w /home/rosco/Torrents" ; open-in-browser-and-mark-read ; set browser "elinks %u"
