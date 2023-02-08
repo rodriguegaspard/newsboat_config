@@ -37,7 +37,6 @@ highlight feedlist "\\[Cooking\\]"          color135   default  bold
 highlight feedlist "\\[Fun\\]"              color135   default  bold
 highlight feedlist "\\[Misc\\]"             color135   default  bold
 highlight feedlist "\\[Podcasts\\]"         color135   default  bold
-highlight feedlist "\\[GitHub\\]"           color135   default  bold
 highlight feedlist "\\[Torrents\\]"         color135   default  bold
 highlight feedlist "\\[Updates\\]"          color135   default  bold
 
