@@ -31,6 +31,7 @@ highlight feedlist "\\[Music\\]"            color135  default  bold
 highlight feedlist "\\[Tech\\]"             color135  default  bold
 highlight feedlist "\\[Gaming\\]"           color135   default  bold
 highlight feedlist "\\[History & Arts\\]"   color135   default  bold
+highlight feedlist "\\[Outdoors & Nature\\]"   color135   default  bold
 highlight feedlist "\\[Science\\]"          color135   default  bold
 highlight feedlist "\\[Cooking\\]"          color135   default  bold
 highlight feedlist "\\[Fun\\]"              color135   default  bold

@@ -3,9 +3,9 @@
 
 "[News]"
 https://sizeof.cat/index.xml "~sizeof{cat}"
-https://boards.4channel.org/news/index.rss "~4chan /news/"
 
 "[Music]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9ecwl3FTG66jIKA9JRDtmg "~SilvaGunner"
 
 "[Tech]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "~Computerphile"
@@ -27,12 +27,14 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCmRjlnKnSRRihWPPNasl_Qw "~V
 
 "[History & Arts]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9pgQfOXRsp4UKrI8q0zjXQ "~Lindybeige"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7IcJI8PUf5Z3zKxnZvTBog "~The School of Life"
+
+"[Outdoors & Nature]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtElDjbNvNG9UkhC-T54HJA "~TAFishing"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzTfnC661R3LXu_mS9aRFKA "~Ultimate Fishing TV"
 
 "[Science]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "~Kurzgesagt – In a Nutshell"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "~3Blue1Brown"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCkweMwOh3kstRG5pX9I0uWQ "~The Budget Museum"
 
 "[Cooking]"
 
