@@ -2,21 +2,22 @@
 #TO-DO : Sort by type (YT Channels, Twitter feeds, News..) tags?
 
 "[News]"
-https://sizeof.cat/index.xml "~sizeof{cat}"
-http://rss.slashdot.org/Slashdot/slashdot "~Slashdot"
 
 "[Music]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeQwCalZK1scamopwHt9UWw "~람다람 RAMDARAM"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC26brDqaI8TNGyCtagmw1Rg "~Puddles!"
 
 "[Tech]"
+https://sizeof.cat/index.xml "~sizeof{cat}"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "~Computerphile"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRb6Mw3fJ6OFzp-cB9X29aA "~Junferno"
 https://odysee.com/$/rss/@AlphaNerd:8 "~Mental Outlaw"
-https://www.lesswrong.com/feed.xml?view=curated-rss "~Less Wrong"
 https://nullprogram.com/feed/ "~Null Program"
 https://lemire.me/blog/feed/ "~Daniel Lemire"
-https://odysee.com/$/rss/@Primer:d4 "~Primer"
 https://www.hillelwayne.com/index.xml "~Hill Wayne"
 https://lukesmith.xyz/index.xml "~Luke Smith's blog"
 https://odysee.com/$/rss/@Luke:7 "~Luke Smith's videos"
+https://solar.lowtechmagazine.com/posts/index.xml "~Low Tech Magazine"
 
 "[Gaming]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCD6VugMZKRhSyzWEWA9W2fg "~SsethTzeentach"
@@ -29,6 +30,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC-ZlXbhKDI6m0IQGGSNvtaw "~K
 https://spacestation14.io/index.xml "~Space Station 14"
 
 "[History & Arts]"
+https://odysee.com/$/rss/@sisyphus55:1 "~Sisyphus 55"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9pgQfOXRsp4UKrI8q0zjXQ "~Lindybeige"
 
 "[Outdoors & Nature]"
 
@@ -36,11 +39,12 @@ https://spacestation14.io/index.xml "~Space Station 14"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "~Kurzgesagt – In a Nutshell"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "~3Blue1Brown"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmb8hO2ilV9vRa8cilis88A "~Thunderf00t"
-https://odysee.com/$/rss/@veritasium:f "~Veritasium"
 https://odysee.com/$/rss/@ScottManley:5 "~Scott Manley"
 https://odysee.com/$/rss/@NileRed:c "~NileRed"
+https://odysee.com/$/rss/@Primer:d4 "~Primer"
 
-"[Cooking]"
+"[Food & Cooking]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeR0n8d3ShTn_yrMhpwyE1Q "~ReviewBrah"
 
 "[Fun]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEq_Dr1GHvnNPQNfgOzhZ8Q "~Solid jj"
@@ -48,16 +52,19 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCAoUBng0Mfu0qn4lPimS6MA "~G
 
 "[Misc]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A "~Tom Scott"
-https://odysee.com/$/rss/@sisyphus55:1 "~Sisyphus 55"
-https://odysee.com/$/rss/@Livakivi:2 "~Livakivi" 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbQQrEsAc5Ec_udqj1CYtCA "~desertorium"
+https://www.lesswrong.com/feed.xml?view=curated-rss "~Less Wrong"
 
 "[Podcasts]"
-https://audioboom.com/channels/5097784.rss "~Lateral with Tom Scott"
+https://lexfridman.com/feed/podcast/ "~Lex Fridman"
 
 "[Torrents]"
+https://subsplease.org/rss/?t&r=720 "~SubsPlease"
 
 "[Updates]"
 http://www.bay12games.com/dwarves/dev_release.rss "~Dwarf Fortress Releases"
 https://github.com/CleverRaven/Cataclysm-DDA/releases.atom "~Cataclysm : Dark Days Ahead"
 https://suckless.org/atom.xml "~suckless"
 https://github.com/qutebrowser/qutebrowser/releases.atom "~qutebrowser"
+https://github.com/mrusme/neonmodem/releases.atom "~neonmodem"
+https://github.com/yt-dlp/yt-dlp/releases.atom "~yt-dlp"

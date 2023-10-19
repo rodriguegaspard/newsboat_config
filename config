@@ -1,6 +1,9 @@
 auto-reload yes
 max-items 500
 ignore-mode "display"
+delete-played-files yes
+download-path "~/audio/podcasts"
+player "mpv"
 
 browser "elinks %u"
 
@@ -31,7 +34,7 @@ articlelist-format "%D %t"
 # ignore-articles filters
 ignore-article "https://github.com/CleverRaven/Cataclysm-DDA/releases.atom" "title =~ \"experimental\""
 ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q" "title =~ \"#short\""
-
+ignore-article "https://subsplease.org/rss/?t&r=720" "title !~ \"(Goblin Slayer|Dungeon Meshi|Hoshikuzu Telepath|Tearmoon Teikoku Monogatari)\""
 
 highlight feedlist "\\[News\\]"             color135   default  bold
 highlight feedlist "\\[Music\\]"            color135  default  bold
@@ -40,7 +43,7 @@ highlight feedlist "\\[Gaming\\]"           color135   default  bold
 highlight feedlist "\\[History & Arts\\]"   color135   default  bold
 highlight feedlist "\\[Outdoors & Nature\\]"   color135   default  bold
 highlight feedlist "\\[Science\\]"          color135   default  bold
-highlight feedlist "\\[Cooking\\]"          color135   default  bold
+highlight feedlist "\\[Food & Cooking\\]"          color135   default  bold
 highlight feedlist "\\[Fun\\]"              color135   default  bold
 highlight feedlist "\\[Misc\\]"             color135   default  bold
 highlight feedlist "\\[Podcasts\\]"         color135   default  bold
@@ -52,3 +55,4 @@ highlight feedlist "\\[Updates\\]"          color135   default  bold
 macro p set browser "qutebrowser %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
 macro v set browser "setsid -f mpv --quiet %u >/dev/null 2>&1" ; open-in-browser-and-mark-read ; set browser "elinks %u"
 macro x set browser "transmission-remote -a %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
+macro l set browser "linkhandler %u"; open-in-browser-and-mark-read; set browser "elinks %u"
