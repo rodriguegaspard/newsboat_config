@@ -2,10 +2,12 @@
 #TO-DO : Sort by type (YT Channels, Twitter feeds, News..) tags?
 
 "[News]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtqxG9IrHFU_ID1khGvx9sA "~All Gas No Brakes"
 
 "[Music]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCeQwCalZK1scamopwHt9UWw "~람다람 RAMDARAM"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC26brDqaI8TNGyCtagmw1Rg "~Puddles!"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCznARY34-PH2Yv4jFxj3SUA "~Lars Lucy 8legions"
 
 "[Tech]"
 https://sizeof.cat/index.xml "~sizeof{cat}"
@@ -18,6 +20,9 @@ https://www.hillelwayne.com/index.xml "~Hill Wayne"
 https://lukesmith.xyz/index.xml "~Luke Smith's blog"
 https://odysee.com/$/rss/@Luke:7 "~Luke Smith's videos"
 https://solar.lowtechmagazine.com/posts/index.xml "~Low Tech Magazine"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ "~Boston Dynamics"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNwGa76xVVwdEVToRZBIUIg "~DenshVideos"
+https://odysee.com/$/rss/@rossmanngroup:a "~Louis Rossman"
 
 "[Gaming]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCD6VugMZKRhSyzWEWA9W2fg "~SsethTzeentach"
@@ -30,36 +35,40 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC-ZlXbhKDI6m0IQGGSNvtaw "~K
 https://spacestation14.io/index.xml "~Space Station 14"
 
 "[History & Arts]"
-https://odysee.com/$/rss/@sisyphus55:1 "~Sisyphus 55"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC9pgQfOXRsp4UKrI8q0zjXQ "~Lindybeige"
+https://www.thehistoryreader.com/feed/ "~The History Reader"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrfKGpvbEQXcbe68dzXgJuA "~Forgotten Weapons"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3WIohkLkH4GFoMrrWVZZFA "~Skallagrim"
+https://odysee.com/$/rss/@betterthanfood:4 "~Better Than Food"
 
 "[Outdoors & Nature]"
 
 "[Science]"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "~Kurzgesagt – In a Nutshell"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "~3Blue1Brown"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmb8hO2ilV9vRa8cilis88A "~Thunderf00t"
 https://odysee.com/$/rss/@ScottManley:5 "~Scott Manley"
 https://odysee.com/$/rss/@NileRed:c "~NileRed"
 https://odysee.com/$/rss/@Primer:d4 "~Primer"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUrdmVprSahXaPKqr04VfgQ "~The Voice of Thunder"
+https://odysee.com/$/rss/@KhanAcademy:5 "~Khan Academy"
 
 "[Food & Cooking]"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCeR0n8d3ShTn_yrMhpwyE1Q "~ReviewBrah"
 
 "[Fun]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEq_Dr1GHvnNPQNfgOzhZ8Q "~Solid jj"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAoUBng0Mfu0qn4lPimS6MA "~G Milgram"
 
+"[Comics]"
+http://feeds.feedburner.com/PoorlyDrawnLines "~Poorly Drawn Lines"
+https://xkcd.com/atom.xml "~xkcd"
+https://www.smbc-comics.com/comic/rss "~Saturday Morning Breakfast Cereal"
+
 "[Misc]"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A "~Tom Scott"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCbQQrEsAc5Ec_udqj1CYtCA "~desertorium"
 https://www.lesswrong.com/feed.xml?view=curated-rss "~Less Wrong"
 
 "[Podcasts]"
 https://lexfridman.com/feed/podcast/ "~Lex Fridman"
-
-"[Torrents]"
-https://subsplease.org/rss/?t&r=720 "~SubsPlease"
+https://feed.podbean.com/historyofafricapodcast/feed.xml "~History of Africa"
 
 "[Updates]"
 http://www.bay12games.com/dwarves/dev_release.rss "~Dwarf Fortress Releases"
