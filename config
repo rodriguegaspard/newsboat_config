@@ -34,7 +34,9 @@ articlelist-format "%D %t"
 ignore-article "https://github.com/CleverRaven/Cataclysm-DDA/releases.atom" "title =~ \"experimental\""
 ignore-article "*" "title =~ \"#short\""
 
+
 highlight feedlist "\\[News\\]"              color135   default  bold
+highlight feedlist "\\[Blogs\\]"             color135   default  bold
 highlight feedlist "\\[Music\\]"             color135   default  bold
 highlight feedlist "\\[Tech\\]"              color135   default  bold
 highlight feedlist "\\[Gaming\\]"            color135   default  bold
